@@ -1,0 +1,27 @@
+body{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    
+}
+.id{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+#p2{
+    margin-left: 50px;
+}

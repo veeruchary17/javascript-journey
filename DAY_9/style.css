@@ -1,0 +1,19 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.show-pass{
+    display:flex;
+    align-items: center;
+    gap:8px;
+    font-size:18px;
+}
+#btn{
+    margin-top: 8px;
+    color: aliceblue;
+    background-color: #007bff;
+    border-radius: 6px;
+    
+}
